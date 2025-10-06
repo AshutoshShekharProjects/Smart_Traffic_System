@@ -1,0 +1,1 @@
+cd /d "%~dp0" && python scripts/data_collector.py >> logs/cron.log 2>&1

@@ -1,0 +1,1 @@
+cd /d "%~dp0" && python scripts/ml_predictor.py >> logs/cron.log 2>&1

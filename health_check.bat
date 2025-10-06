@@ -1,0 +1,1 @@
+cd /d "%~dp0" && python scripts/health_check.py >> logs/cron.log 2>&1

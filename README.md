@@ -1,5 +1,3 @@
-# Smart_Traffic_System
-
 # Smart Traffic Prediction and Control System
 
 ## Overview
